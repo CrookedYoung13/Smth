@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ooplabs\\laba 2\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\ooplabs\\laba 2\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\ooplabs\\laba 2\\01\\01.csproj",
+      "projectName": "01",
+      "projectPath": "D:\\ooplabs\\laba 2\\01\\01.csproj",
       "packagesPath": "C:\\Users\\basta\\.nuget\\packages\\",
-      "outputPath": "D:\\ooplabs\\laba 2\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\ooplabs\\laba 2\\01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\basta\\AppData\\Roaming\\NuGet\\NuGet.Config",
